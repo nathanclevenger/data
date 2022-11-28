@@ -1,5 +1,5 @@
 <header>
-  <h2>## Test Header</h2>
+  <h2>Test Header</h2>
 </header>
 
 # data
