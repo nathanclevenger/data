@@ -1,1 +1,5 @@
 remote_theme: nathanclevenger/data
+
+collections:
+  sources:
+    external: true
